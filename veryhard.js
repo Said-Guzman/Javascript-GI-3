@@ -11,26 +11,22 @@
 // 7. Give the Programmer 'learnLanguage' and 'listLanguages' methods that add new languages to the programmer and list off all languages the programmer knows.
 // 8. Test it out - can you create different programmers and run all the methods on them? Does each programmer maintain their own properties properly and independently of the other programmers?
 // Bonus - ES6 Syntax: Use ES6 Syntax in your answer. Feel free to add on new methods or properties to  incorporate the syntax.
-// function Person(name, job, age) { }
+
 // function Programmer(name, job, age, languages) { }
 
 
 
-"use strict";
-
-let animal = {
-  eats: true
-};
-let rabbit = {
-  jumps: true
-};
-
-rabbit.__proto__ = animal; // sets rabbit.[[Prototype]] = animal
 
 
 
 
+function Person(name, job, age) { 
 
+
+
+
+  
+}
 
 
 
